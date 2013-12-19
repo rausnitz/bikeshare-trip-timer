@@ -1,6 +1,6 @@
 <?php
 
-/* error_reporting(0); */
+error_reporting(0);
 
 $fixedURL = 'http://www.rausnitz.com/bikesharetimer/';
 $greenIcon = "img/greenmarker.png";

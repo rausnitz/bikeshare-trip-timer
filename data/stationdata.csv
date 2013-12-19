@@ -1,292 +1,303 @@
-number,latitude,longitude,name,installcode,installmonth,installdate,installyear,installed
-31000,38.8561,-77.0512,20th & Bell St,1,September,15,2011,TRUE
-31001,38.85725,-77.05332,18th & Eads St.,1,September,20,2010,TRUE
-31002,38.8564,-77.0492,20th & Crystal Dr,1,September,14,2010,TRUE
-31003,38.86017,-77.049593,15th & Crystal Dr,1,September,14,2010,TRUE
-31004,38.8573,-77.0574,18th & Hayes St,1,September,14,2010,TRUE
-31005,38.862303,-77.059936,12th & Hayes St /  Pentagon City Metro,1,September,14,2010,TRUE
-31006,38.8637,-77.0633,S Joyce & Army Navy Dr,1,September,14,2010,TRUE
-31007,38.8573,-77.0511,Crystal City Metro / 18th & Bell St,1,September,14,2010,TRUE
-31008,38.8629,-77.0528,12th & Army Navy Dr,1,September,14,2010,TRUE
-31009,38.848441,-77.051516,27th & Crystal Dr,1,September,14,2010,TRUE
-31010,38.8426,-77.0502,S Glebe & Potomac Ave,1,September,14,2010,TRUE
-31011,38.8533,-77.0498,23rd & Crystal Dr,1,September,14,2010,TRUE
-31012,38.850688,-77.05152,26th & S Clark St,1,September,14,2010,TRUE
-31100,38.9003,-77.0429,19th St & Pennsylvania Ave NW,1,September,14,2010,TRUE
-31101,38.9176,-77.0321,14th & V St NW,1,September,14,2010,TRUE
-31102,38.929464,-77.027822,11th & Kenyon St NW,1,October,8,2010,TRUE
-31103,38.926088,-77.036536,16th & Harvard St NW,1,September,14,2010,TRUE
-31104,38.922925,-77.042581,Adams Mill & Columbia Rd NW,1,September,14,2010,TRUE
-31105,38.9268,-77.0322,14th & Harvard St NW,1,September,14,2010,TRUE
-31106,38.923203,-77.047637,Calvert & Biltmore St NW,1,September,14,2010,TRUE
-31107,38.9319,-77.0388,Lamont & Mt Pleasant NW,1,September,14,2010,TRUE
-31108,38.8767,-77.0178,4th & M St SW,1,September,14,2010,TRUE
-31201,38.90985,-77.034438,15th & P St NW,1,September,14,2010,TRUE
-31202,38.912682,-77.031681,14th & R St NW,1,September,14,2010,TRUE
-31203,38.9086,-77.0323,14th & Rhode Island Ave NW,1,September,14,2010,TRUE
-31204,38.8963,-77.045,20th & E St NW,1,September,14,2010,TRUE
-31205,38.9008,-77.047,21st & I St NW,1,September,7,2010,TRUE
-31400,38.936043,-77.024649,Georgia & New Hampshire Ave NW,1,September,14,2010,TRUE
-31401,38.9375,-77.0328,14th St & Spring Rd NW,1,September,14,2010,TRUE
-31502,38.9346,-76.9955,John McCormack Dr & Michigan Ave NE,1,September,14,2010,TRUE
-31600,38.90304,-77.019027,5th & K St NW,1,September,14,2010,TRUE
-31601,38.8896,-76.9769,19th & East Capitol St SE,1,September,14,2010,TRUE
-31602,38.9308,-77.0315,Park Rd & Holmead Pl NW,1,September,14,2010,TRUE
-31700,38.8601,-76.9672,Good Hope & Naylor Rd SE,1,September,14,2010,TRUE
-31305,38.934267,-77.057979,Connecticut Ave & Newark St NW / Cleveland Park,1,November,8,2010,TRUE
-31702,38.878,-76.9607,Randle Circle & Minnesota Ave SE,1,September,14,2010,TRUE
-31703,38.897063,-76.947446,Minnesota Ave Metro/DOES,1,September,14,2010,TRUE
-31704,38.9016,-76.9422,Nannie Helen Burroughs & Minnesota Ave NE,1,September,14,2010,FALSE
-31801,38.8624,-76.9949,Anacostia Metro,1,September,14,2010,TRUE
-31802,38.867373,-76.988039,Good Hope Rd & MLK Ave SE,1,May,13,2011,TRUE
-31206,38.8952,-77.0436,19th & E Street NW,1,September,15,2010,TRUE
-31500,38.919488,-77.000624,4th St & Rhode Island Ave NE,1,November,17,2010,TRUE
-31111,38.9172,-77.0259,10th & U St NW,1,September,30,2010,TRUE
-31207,38.9249,-77.0222,Georgia Ave and Fairmont St NW,1,September,21,2010,TRUE
-31209,38.8743,-77.0057,1st & N St  SE,1,September,21,2010,TRUE
-31110,38.9154,-77.0446,20th St & Florida Ave NW,1,September,23,2010,TRUE
-31109,38.9155,-77.0222,7th & T St NW,1,September,29,2010,TRUE
-31013,38.853613,-77.053535,23rd & Eads St,1,October,20,2010,TRUE
-31208,38.8763,-77.0037,M St & New Jersey Ave SE,1,September,21,2010,TRUE
-31200,38.9101,-77.0444,Massachusetts Ave & Dupont Circle NW,1,September,15,2010,TRUE
-31603,38.9057,-77.0056,1st & M St NE,1,October,15,2010,TRUE
-31212,38.90534,-77.046774,21st & M St NW,1,September,21,2010,TRUE
-31213,38.90276,-77.03863,17th & K St NW,1,May,24,2011,TRUE
-31604,38.9003,-77.016,4th St & Massachusetts Ave NW,1,October,14,2010,TRUE
-31605,38.8851,-77.0023,3rd & D St SE,1,October,16,2010,TRUE
-31606,38.8803,-76.9862,Potomac & Pennsylvania Ave SE,1,October,19,2010,TRUE
-31607,38.884,-76.9861,14th & D St SE,1,October,18,2010,TRUE
-31214,38.9121,-77.0387,17th & Corcoran St NW,1,January,3,2011,TRUE
-31300,38.944551,-77.063896,Van Ness Metro / UDC,1,November,13,2010,TRUE
-31503,38.9126,-77.0135,Florida Ave & R St NW,1,November,18,2010,TRUE
-31608,38.8792,-76.9953,8th & Eye St SE / Barracks Row,1,October,18,2010,TRUE
-31301,38.938736,-77.087171,Ward Circle / American University,1,November,12,2010,TRUE
-31302,38.934751,-77.074647,Idaho Ave & Newark St NW,1,November,17,2010,TRUE
-31402,38.947774,-77.032818,14th St Heights / 14th & Crittenden St NW,1,November,17,2010,TRUE
-31804,38.865784,-76.9784,Anacostia Library,1,November,1,2010,TRUE
-31805,38.873057,-76.971015,Pennsylvania & Minnesota Ave SE,1,November,1,2010,TRUE
-31610,38.886952,-76.996806,Eastern Market / 7th & North Carolina Ave SE,1,August,21,2010,TRUE
-31216,38.899641,-77.032005,McPherson Square / 14th & H St NW,1,September,14,2010,TRUE
-31705,38.894,-76.947974,Benning Branch Library,1,November,1,2010,TRUE
-31217,38.887237,-77.028226,USDA / 12th & Independence Ave SW,1,October,5,2010,TRUE
-31215,38.9022212,-77.059219,Georgetown Harbor / 30th St NW,1,October,5,2010,TRUE
-31501,38.933668,-76.991016,12th & Newton St NE,1,October,5,2010,TRUE
-31220,38.894919,-77.046587,US Dept of State / Virginia Ave & 21st St NW,1,October,9,2010,TRUE
-31218,38.886266,-77.022241,L'Enfant Plaza / 7th & C St SW,1,October,6,2010,TRUE
-31219,38.893028,-77.026013,10th St & Constitution Ave NW,1,October,7,2010,TRUE
-31211,38.895184,-77.054845,Kennedy Center,1,October,5,2010,TRUE
-31613,38.884,-76.995397,Eastern Market Metro / Pennsylvania Ave & 7th St SE,1,October,6,2010,TRUE
-31221,38.904742,-77.041606,18th & M St NW,1,October,7,2010,TRUE
-31303,38.947607,-77.079382,Tenleytown / Wisconsin Ave & Albemarle St NW,1,October,15,2010,TRUE
-31611,38.9003,-76.9882,13th & H St NE,1,October,8,2010,TRUE
-31620,38.897222,-77.019347,5th & F St NW,1,October,7,2010,TRUE
-31222,38.8991,-77.0337,New York Ave & 15th St NW,1,October,9,2010,TRUE
-31223,38.90572,-77.022264,Convention Center / 7th & M St NW,1,October,9,2010,TRUE
-31112,38.927872,-77.043358,Harvard St & Adams Mill Rd NW,1,January,4,2011,TRUE
-31224,38.903407,-77.043648,19th & L St NW,1,October,15,2010,TRUE
-31225,38.90375,-77.06269,C & O Canal & Wisconsin Ave NW,1,October,19,2010,TRUE
-31609,38.878925,-77.024016,7th & Water St SW / SW Waterfront,1,October,22,2010,TRUE
-31612,38.894758,-76.997114,D St & Maryland Ave NE,1,February,24,2012,TRUE
-31226,38.916442,-77.0682,34th St & Wisconsin Ave NW,1,October,15,2010,TRUE
-31227,38.900283,-77.029822,13th St & New York Ave NW,1,October,18,2010,TRUE
-31228,38.8997,-77.023086,8th & H St NW,1,October,15,2010,TRUE
-31504,38.932514,-76.992889,10th & Monroe St NE,1,October,14,2010,TRUE
-31505,38.910972,-77.00495,Eckington Pl & Q St NE,1,October,14,2010,TRUE
-31615,38.900384,-76.99831,6th & H St NE,1,December,12,2011,TRUE
-31616,38.90002,-77.002166,3rd & H St NE,1,October,14,2010,TRUE
-31617,38.900413,-76.982872,Bladensburg Rd & Benning Rd NE,1,October,27,2010,TRUE
-31618,38.889955,-77.000349,4th & East Capitol St NE,1,October,14,2010,TRUE
-31619,38.890461,-76.988355,Lincoln Park / 13th & East Capitol St NE,1,October,25,2010,TRUE
-31701,38.8692,-76.9599,Branch & Pennsylvania Ave SE,1,June,25,2011,TRUE
-31622,38.894832,-76.987633,13th & D St NE,1,October,26,2010,TRUE
-31229,38.91554,-77.03818,New Hampshire Ave & T St NW,1,October,15,2010,TRUE
-31230,38.898364,-77.027869,Metro Center / 12th & G St NW,1,May,13,2011,TRUE
-31231,38.894514,-77.031617,14th & D St NW / Ronald Reagan Building,1,April,20,2011,TRUE
-31232,38.897324,-77.022322,7th & F St NW / National Portrait Gallery,1,April,29,2011,TRUE
-31233,38.902061,-77.038322,17th & K St NW / Farragut Square,1,April,28,2011,TRUE
-31234,38.908905,-77.04478,20th & O St NW / Dupont South,1,February,10,2012,TRUE
-31621,38.895344,-77.016106,4th & D St NW / Judiciary Square,1,May,4,2011,TRUE
-31235,38.8923,-77.0436,19th St & Constitution Ave NW,1,October,20,2010,TRUE
-31236,38.90774,-77.071652,37th & O St NW / Georgetown University,1,October,25,2010,TRUE
-31614,38.899983,-76.991383,11th & H St NE,1,December,12,2011,TRUE
-31237,38.903827,-77.053485,25th St & Pennsylvania Ave NW,1,October,31,2010,TRUE
-31623,38.89696,-77.00493,Columbus Circle / Union Station,1,October,1,2010,TRUE
-31624,38.897446,-77.009888,North Capitol St & F St NW,1,October,26,2010,TRUE
-31266,38.905607,-77.027137,11th & M St NW,2,April,3,2013,TRUE
-31304,38.922581,-77.070334,36th & Calvert St NW / Glover Park,1,November,8,2010,TRUE
-31238,38.898069,-77.031823,14th & G St NW,1,November,8,2010,TRUE
-31052,38.844015,-77.050537,Potomac Ave & 35th St S,1,October,24,2012,TRUE
-31240,38.88412,-77.04657,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,1,March,16,2012,TRUE
-31262,38.897857,-77.026975,11th & F St NW,2,February,4,2013,TRUE
-31260,38.896104,-77.049882,23rd & E St NW,2,January,31,2013,TRUE
-31014,38.897315,-77.070993,Lynn & 19th St North,1,April,16,2011,TRUE
-31015,38.8946,-77.072305,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,1,April,16,2011,TRUE
-31016,38.893648,-77.076701,Clarendon Blvd & Pierce St,1,April,16,2011,TRUE
-31017,38.891696,-77.0846,Court House Metro / Wilson Blvd & N Uhle St,1,November,10,2011,TRUE
-31018,38.892164,-77.079375,N Rhodes & 16th St N,1,April,16,2011,TRUE
-31706,38.86559,-76.952103,Fairfax Village,1,July,27,2011,TRUE
-31261,38.892459,-77.046567,21st St & Constitution Ave NW,2,January,31,2013,TRUE
-31019,38.889,-77.0925,Wilson Blvd & N Edgewood St,1,November,11,2011,TRUE
-31113,38.920669,-77.04368,Columbia Rd & Belmont St NW,1,November,18,2011,TRUE
-31239,38.906602,-77.038785,17th & Rhode Island Ave NW,1,November,18,2011,TRUE
-31241,38.9059,-77.0325,Thomas Circle,1,November,19,2011,TRUE
-31020,38.8904,-77.0889,Wilson Blvd & Franklin Rd,1,December,1,2011,TRUE
-31021,38.8881,-77.09308,Clarendon Blvd & N Fillmore St,1,November,22,2011,TRUE
-31022,38.88786,-77.094875,Clarendon Metro / Wilson Blvd & N Highland St,1,November,22,2011,TRUE
-31242,38.89968,-77.041539,18th St & Pennsylvania Ave NW,1,November,29,2011,TRUE
-31243,38.887299,-77.018939,Maryland & Independence Ave SW,1,January,27,2012,TRUE
-31244,38.88412,-77.017445,4th & E St SW,1,December,1,2011,TRUE
-31625,38.881185,-77.001828,3rd & G St SE,1,November,30,2011,TRUE
-31245,38.912719,-77.022155,7th & R St NW / Shaw Library,1,November,29,2011,TRUE
-31404,38.9418,-77.0251,9th & Upshur St NW,1,December,6,2011,TRUE
-31506,38.915417,-77.012289,1st & Rhode Island Ave NW,1,December,6,2011,TRUE
-31115,38.928156,-77.02344,Columbia Rd & Georgia Ave NW,1,December,7,2011,TRUE
-31116,38.917761,-77.04062,California St & Florida Ave NW,1,December,13,2011,TRUE
-31707,38.889935,-76.93723,Benning Rd & East Capitol St NE / Benning Rd Metro,1,December,20,2011,TRUE
-31307,38.930282,-77.055599,3000 Connecticut Ave NW / National Zoo,1,December,21,2011,TRUE
-31708,38.896544,-76.96012,Anacostia Ave & Benning Rd NE / River Terrace,1,December,20,2011,TRUE
-31246,38.905126,-77.056887,M St & Pennsylvania Ave NW,1,December,21,2011,TRUE
-31626,38.88732,-76.983569,15th St & Massachusetts Ave SE,1,December,22,2011,TRUE
-31806,38.844711,-76.987823,Congress Heights Metro,1,December,22,2011,TRUE
-31035,38.876393,-77.107735,N Quincy St & Glebe Rd,1,April,27,2012,TRUE
-31033,38.8815,-77.10396,Wilson Blvd & N Oakland St,1,April,25,2012,TRUE
-31029,38.896923,-77.086502,N Veitch  & 20th St N,1,April,23,2012,TRUE
-31263,38.90268,-77.02674,11th & K St NW,2,February,15,2013,TRUE
-31023,38.885801,-77.097745,Fairfax Dr & Wilson Blvd,1,April,27,2012,TRUE
-31027,38.896015,-77.078107,Key Blvd & N Quinn St,1,April,23,2012,TRUE
-31628,38.87861,-77.006004,1st & K St SE,1,February,8,2012,TRUE
-31306,38.922649,-77.077271,39th & Calvert St NW / Stoddert,1,February,10,2012,TRUE
-31507,38.928743,-77.012457,1st & Washington Hospital Center NW,1,February,13,2012,TRUE
-31024,38.882788,-77.103148,Virginia Square Metro / N Monroe St & 9th St N,1,February,17,2012,TRUE
-31025,38.88397,-77.10783,Central Library / N Quincy St & 10th St N,1,February,17,2012,TRUE
-31026,38.884734,-77.093485,Washington Blvd & 10th St N,1,February,22,2012,TRUE
-31247,38.888553,-77.032429,Jefferson Dr & 14th St SW,1,March,16,2012,TRUE
-31248,38.888767,-77.02858,Smithsonian / Jefferson Dr & 12th St SW,1,April,2,2012,TRUE
-31036,38.87887,-77.1207,George Mason Dr & Wilson Blvd,1,April,30,2012,TRUE
-31264,38.894573,-77.01994,6th St & Indiana Ave NW,2,April,3,2013,TRUE
-31028,38.893241,-77.086045,N Veitch & Key Blvd,1,April,23,2012,TRUE
-31030,38.89593,-77.089006,N Adams St & Lee Hwy,1,April,25,2012,TRUE
-31031,38.89054,-77.08095,15th & N Scott St,1,April,25,2012,TRUE
-31032,38.880834,-77.091129,Washington Blvd & 7th St N,1,April,30,2012,TRUE
-31037,38.881044,-77.111768,Ballston Metro / N Stuart & 9th St N,1,April,30,2012,TRUE
-31034,38.882629,-77.109366,N Randolph St & Fairfax Dr,1,April,27,2012,TRUE
-31249,38.879819,-77.037413,Jefferson Memorial,1,May,2,2012,TRUE
-31803,38.866611,-76.985238,Good Hope Rd & 14th St SE,1,May,2,2012,TRUE
-31038,38.883921,-77.116817,Glebe Rd & 11th St N,1,May,17,2012,TRUE
-31039,38.880151,-77.107673,N Quincy St & Wilson Blvd,1,May,29,2012,TRUE
-31040,38.884616,-77.10108,Fairfax Dr & Kenmore St,2,April,24,2013,TRUE
-31508,38.90509,-76.9941,Gallaudet / 8th St & Florida Ave NE,1,July,11,2012,TRUE
-31250,38.903584,-77.044789,20th & L St NW,1,June,25,2012,TRUE
-31251,38.903819,-77.0284,12th & L St NW,1,June,25,2012,TRUE
-31252,38.901539,-77.046564,21st St & Pennsylvania Ave NW,1,June,27,2012,TRUE
-31253,38.902204,-77.04337,19th & K St NW,1,June,27,2012,TRUE
-31041,38.803124,-77.040363,Prince St & Union St,1,August,27,2012,TRUE
-31042,38.804718,-77.043363,Market Square / King St & Royal St,1,August,27,2012,TRUE
-31043,38.810743,-77.044664,Saint Asaph St & Pendleton  St,1,August,27,2012,TRUE
-31044,38.805317,-77.049883,King St & Patrick St,1,August,31,2012,TRUE
-31254,38.902,-77.03353,15th & K St NW,1,July,2,2012,TRUE
-31045,38.805648,-77.05293,Commerce St & Fayette St,1,August,31,2012,TRUE
-31046,38.811456,-77.050276,Henry St & Pendleton St,1,August,31,2012,TRUE
-31047,38.814577,-77.052808,Braddock Rd Metro,1,August,31,2012,TRUE
-31048,38.805767,-77.06072,King St Metro,1,August,31,2012,TRUE
-31255,38.9066,-77.05152,24th & N St NW,1,July,6,2012,TRUE
-31256,38.895914,-77.026064,10th & E St NW,1,July,12,2012,TRUE
-31257,38.90088,-77.048911,22nd & I St NW / Foggy Bottom,1,July,16,2012,TRUE
-31049,38.883669,-77.113905,Utah St & 11th St N,1,July,17,2012,TRUE
-31050,38.884961,-77.08777,Barton St & 10th St N,1,September,4,2012,TRUE
-31051,38.889365,-77.077294,Arlington Blvd & N Queen St,1,September,4,2012,TRUE
-31258,38.888251,-77.049426,Lincoln Memorial,1,October,3,2012,TRUE
-31259,38.894722,-77.045128,20th St & Virginia Ave NW,2,January,31,2013,TRUE
-31265,38.90093,-77.018677,5th St & Massachusetts Ave NW,2,May,6,2013,TRUE
-31308,38.943837,-77.077078,39th & Veazey St NW,2,February,11,2013,TRUE
-31309,38.954812,-77.082426,Fessenden St & Wisconsin Ave NW,2,February,11,2013,TRUE
-31627,38.905707,-77.003041,M St & Delaware Ave NE,2,February,15,2013,TRUE
-31053,38.863833,-77.080319,Columbia Pike & S Courthouse Rd,2,March,28,2013,TRUE
-31054,38.857803,-77.086733,Walter Reed Community Center / Walter Reed Dr & 16th St S,2,March,28,2013,TRUE
-31055,38.846222,-77.069275,28th St S & S Meade St,2,March,28,2013,TRUE
-31114,38.918809,-77.041571,18th St & Wyoming Ave NW,2,April,3,2013,TRUE
-31403,38.956595,-77.019815,5th & Kennedy St NW,2,April,12,2013,TRUE
-31405,38.949662,-77.027333,Georgia Ave & Emerson St NW,2,April,12,2013,TRUE
-31406,38.942016,-77.032652,14th & Upshur St NW,2,April,12,2013,TRUE
-31407,38.956432,-77.032947,14th St & Colorado Ave NW,2,April,12,2013,TRUE
-31056,38.847977,-77.075104,S Troy St & 26th St S,2,April,23,2013,TRUE
-31057,38.8444,-77.085931,S Four Mile Run Dr & S Shirlington Rd,2,April,23,2013,TRUE
-31058,38.860789,-77.09586,S Oakland St & Columbia Pike,2,April,23,2013,TRUE
-31059,38.835213,-77.094295,S Abingdon St & 36th St S,2,April,23,2013,TRUE
-31060,38.84232,-77.089555,S Arlington Mill Dr & Campbell Ave,2,April,24,2013,TRUE
-31061,38.848454,-77.084918,S Kenmore & 24th St S,2,April,24,2013,TRUE
-32006,38.987,-77.029417,13th St & Eastern Ave,3,September,27,2013,TRUE
-31312,38.90849,-77.063586,Wisconsin Ave & O St NW,2,April,25,2013,TRUE
-31062,38.854691,-77.100555,S George Mason Dr & 13th St S,2,July,1,2013,TRUE
-31310,38.955016,-77.069956,Connecticut & Nebraska Ave NW,2,April,25,2013,TRUE
-31267,38.908142,-77.038359,17th St & Massachusetts Ave NW,2,May,6,2013,TRUE
-31117,38.92333,-77.0352,15th & Euclid St  NW,2,May,6,2013,TRUE
-31629,38.889988,-76.995193,8th & East Capitol St NE,2,May,14,2013,TRUE
-31509,38.912659,-77.017669,New Jersey Ave & R St NW,2,May,14,2013,TRUE
-31630,38.889908,-76.983326,15th & East Capitol St NE,2,May,14,2013,TRUE
-31631,38.897274,-76.994749,8th & F St NE,2,May,14,2013,TRUE
-31510,38.927095,-76.978924,18th St & Rhode Island Ave NE,2,May,30,2013,TRUE
-31632,38.897195,-76.983575,15th & F St NE,2,May,30,2013,TRUE
-31511,38.928644,-76.990955,12th & Irving St NE,2,May,30,2013,TRUE
-31709,38.884085,-76.957461,34th St & Minnesota Ave SE,2,June,4,2013,TRUE
-31800,38.843222,-76.999388,Alabama & MLK Ave SE,2,June,4,2013,TRUE
-31807,38.863897,-76.990037,Pleasant St & MLK Ave SE,2,June,4,2013,TRUE
-31512,38.903732,-76.987211,Neal St & Trinidad Ave NE,2,June,14,2013,TRUE
-31268,38.916794,-77.029779,13th & U St NW,2,June,14,2013,TRUE
-31063,38.852248,-77.105022,S George Mason Dr & Four Mile Run,2,July,1,2013,TRUE
-31064,38.834108,-77.087323,S Stafford & 34th St S,2,July,1,2013,TRUE
-31065,38.880705,-77.08596,N Pershing Dr & Wayne St,2,July,1,2013,TRUE
-31066,38.867262,-77.072315,Columbia Pike & S Orme St,2,July,1,2013,TRUE
-31269,38.887378,-77.001955,3rd St & Pennsylvania Ave SE,2,July,23,2013,TRUE
-31270,38.894851,-77.02324,8th & D St NW,2,July,23,2013,TRUE
-31118,38.917622,-77.01597,3rd & Elm St NW,2,July,23,2013,TRUE
-31513,38.918155,-77.004746,Rhode Island Ave & V St NE,2,July,30,2013,TRUE
-31271,38.892275,-77.013917,Constitution Ave & 2nd St NW/DOL,2,July,30,2013,TRUE
-31272,38.88731,-77.01397,Washington & Independence Ave SW/HHS,2,August,2,2013,TRUE
-31633,38.887397,-77.026154,Independence Ave & L'Enfant Plaza SW/DOE,2,August,6,2013,TRUE
-31514,38.927497,-76.997194,Hamlin & 7th St NE,2,August,16,2013,TRUE
-31067,38.862478,-77.086599,Columbia Pike & S Walter Reed Dr,2,August,27,2013,TRUE
-31068,38.856319,-77.11153,Columbia Pike & S Dinwiddie St / Arlington Mill Community Center,2,August,29,2013,TRUE
-31069,38.871822,-77.107906,Pershing & N George Mason Dr,2,August,29,2013,TRUE
-32001,38.985404,-77.023082,Fenton St & New York Ave,3,September,27,2013,TRUE
-32002,38.981103,-77.097426,Bethesda Ave & Arlington Blvd,3,September,27,2013,TRUE
-32003,38.983838,-77.09221,Montgomery Ave & Waverly St,4,October,19,2013,TRUE
-32004,39.096312,-77.192672,Fallsgrove Blvd & Fallsgrove Dr,3,September,27,2013,TRUE
-32005,39.093783,-77.202501,Traville Gateway Dr & Gudelsky Dr,3,September,27,2013,TRUE
-32000,38.988562,-77.096539,Norfolk Ave & Fairmont St,3,September,27,2013,TRUE
-32007,39.084125,-77.151291,E Montgomery Ave & Maryland Ave,3,September,27,2013,TRUE
-32008,38.98954,-77.098029,Cordell & Norfolk Ave,3,September,27,2013,TRUE
-32009,39.094772,-77.145213,Frederick Ave & Horners Ln,3,September,27,2013,TRUE
-32010,38.98128,-77.011336,Philadelphia & Maple Ave,3,September,27,2013,TRUE
-32011,38.983627,-77.006311,Maple & Ritchie Ave,3,September,27,2013,TRUE
-32012,38.99521,-77.02918,Silver Spring Metro/Colesville Rd & Wayne Ave,3,September,27,2013,TRUE
-32013,38.983525,-77.095367,Montgomery & East Ln,3,September,27,2013,TRUE
-32014,38.961763,-77.085998,Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir,3,September,27,2013,TRUE
-31119,38.921074,-77.031887,14th & Belmont St NW,4,October,2,2013,TRUE
-31634,38.87501,-77.0024,3rd & Tingey St SE,4,October,2,2013,TRUE
-31120,38.920387,-77.025672,10th & Florida Ave NW,4,October,9,2013,TRUE
-31635,38.876737,-76.994468,Potomac Ave & 8th St SE,4,October,9,2013,TRUE
-32015,39.120045,-77.156985,Crabbs Branch Way & Redland Rd,4,October,18,2013,TRUE
-32016,39.099376,-77.188014,Fallsgove Dr & W Montgomery Ave,4,October,18,2013,TRUE
-32017,39.083705,-77.149443,Monroe St & Monroe Pl,4,November,1,2013,TRUE
-32018,39.123513,-77.15741,Needwood Rd & Eagles Head Ct,4,October,18,2013,TRUE
-32019,38.990249,-77.02935,East West Hwy & Blair Mill Rd,4,October,30,2013,TRUE
-32020,39.107709,-77.152072,Crabbs Branch Way & Calhoun Pl,4,October,18,2013,TRUE
-32021,38.982456,-77.091991,47th & Elm St,4,October,19,2013,TRUE
-32022,39.000578,-77.00149,Garland Ave & Walden Rd,4,October,29,2013,TRUE
-32023,39.095661,-77.159048,Montgomery College/W Campus Dr & Mannakee St,4,October,19,2013,TRUE
-32024,38.989724,-77.023854,Fenton St & Gist Ave,4,October,29,2013,TRUE
-32025,38.975,-77.01121,Carroll & Westmoreland Ave,4,October,29,2013,TRUE
-32026,38.977933,-77.006472,Carroll & Ethan Allen Ave,4,October,29,2013,TRUE
-32027,38.992375,-77.100104,Battery Ln & Trolley Trail,4,October,25,2013,TRUE
-32028,38.990639,-77.100239,Norfolk & Rugby Ave,4,October,25,2013,TRUE
-32029,38.977093,-77.094589,Offutt Ln & Chevy Chase Dr,4,October,25,2013,TRUE
-32030,39.102099,-77.200322,Broschart & Blackwell Rd,4,October,26,2013,TRUE
-32031,39.094103,-77.132954,Taft St & E Gude Dr,4,October,26,2013,TRUE
-32032,39.076331,-77.141378,Fleet St & Ritchie Pkwy,4,October,26,2013,TRUE
-32033,39.102212,-77.177091,Piccard & W Gude Dr,4,October,26,2013,TRUE
-32034,38.992679,-77.029457,Ripley & Bonifant St,4,October,30,2013,TRUE
-32035,38.999388,-77.031555,Georgia Ave & Spring St,4,October,30,2013,TRUE
-32036,38.997033,-77.025608,Fenton St & Ellsworth Dr,4,October,30,2013,TRUE
-32037,39.114688,-77.171487,King Farm Blvd & Pleasant Dr,4,November,1,2013,TRUE
-32038,39.110314,-77.182669,King Farm Blvd & Piccard Dr,4,November,1,2013,TRUE
+"Eastern Market / 7th & North Carolina Ave SE","31610","38.886952","-76.996806","1282363200"
+"21st & I St NW","31205","38.9008","-77.047","1283861040"
+"McPherson Square / 14th & H St NW","31216","38.899641","-77.032005","1284436800"
+"20th & Crystal Dr","31002","38.8564","-77.0492","1284464580"
+"15th & Crystal Dr","31003","38.86017","-77.049593","1284464880"
+"Aurora Hills Community Ctr/18th & Hayes St","31004","38.857866","-77.05949","1284464880"
+"12th & Hayes St /  Pentagon City Metro","31005","38.862303","-77.059936","1284464940"
+"S Joyce & Army Navy Dr","31006","38.8637","-77.0633","1284464940"
+"Crystal City Metro / 18th & Bell St","31007","38.8573","-77.0511","1284465000"
+"12th & Army Navy Dr","31008","38.8629","-77.0528","1284465000"
+"27th & Crystal Dr","31009","38.848441","-77.051516","1284465060"
+"S Glebe & Potomac Ave","31010","38.8426","-77.0502","1284465120"
+"23rd & Crystal Dr","31011","38.8533","-77.0498","1284465120"
+"26th & S Clark St","31012","38.850688","-77.05152","1284465300"
+"19th St & Pennsylvania Ave NW","31100","38.9003","-77.0429","1284465360"
+"14th & V St NW","31101","38.9176","-77.0321","1284465420"
+"16th & Harvard St NW","31103","38.926088","-77.036536","1284465480"
+"Adams Mill & Columbia Rd NW","31104","38.922925","-77.042581","1284465540"
+"14th & Harvard St NW","31105","38.9268","-77.0322","1284465540"
+"Calvert & Biltmore St NW","31106","38.923203","-77.047637","1284465600"
+"Lamont & Mt Pleasant NW","31107","38.9319","-77.0388","1284465600"
+"4th & M St SW","31108","38.8767","-77.0178","1284465660"
+"15th & P St NW","31201","38.90985","-77.034438","1284465660"
+"14th & R St NW","31202","38.912682","-77.031681","1284465720"
+"14th & Rhode Island Ave NW","31203","38.9086","-77.0323","1284465780"
+"20th & E St NW","31204","38.8963","-77.045","1284465840"
+"Georgia & New Hampshire Ave NW","31400","38.936043","-77.024649","1284465900"
+"14th St & Spring Rd NW","31401","38.9375","-77.0328","1284465960"
+"John McCormack Dr & Michigan Ave NE","31502","38.9346","-76.9955","1284465960"
+"5th & K St NW","31600","38.90304","-77.019027","1284466020"
+"19th & East Capitol St SE","31601","38.8896","-76.9769","1284466020"
+"Park Rd & Holmead Pl NW","31602","38.9308","-77.0315","1284466080"
+"Good Hope & Naylor Rd SE","31700","38.8601","-76.9672","1284466140"
+"Randle Circle & Minnesota Ave SE","31702","38.878","-76.9607","1284466200"
+"Minnesota Ave Metro/DOES","31703","38.897063","-76.947446","1284466200"
+"Anacostia Metro","31801","38.8624","-76.9949","1284466260"
+"Massachusetts Ave & Dupont Circle NW","31200","38.9101","-77.0444","1284523200"
+"19th & E Street NW","31206","38.8952","-77.0436","1284545040"
+"18th & Eads St.","31001","38.85725","-77.05332","1284989400"
+"Georgia Ave and Fairmont St NW","31207","38.9249","-77.0222","1285041600"
+"1st & N St  SE","31209","38.8743","-77.0057","1285041600"
+"M St & New Jersey Ave SE","31208","38.8763","-77.0037","1285041600"
+"21st & M St NW","31212","38.90534","-77.046774","1285041600"
+"20th St & Florida Ave NW","31110","38.9154","-77.0446","1285217520"
+"7th & T St NW","31109","38.9155","-77.0222","1285735680"
+"10th & U St NW","31111","38.9172","-77.0259","1285822380"
+"Columbus Circle / Union Station","31623","38.89696","-77.00493","1285905600"
+"USDA / 12th & Independence Ave SW","31217","38.887237","-77.028226","1286297580"
+"Georgetown Harbor / 30th St NW","31215","38.9022212","-77.059219","1286300580"
+"12th & Newton St NE","31501","38.933668","-76.991016","1286306220"
+"Kennedy Center","31211","38.895184","-77.054845","1286325060"
+"L'Enfant Plaza / 7th & C St SW","31218","38.886266","-77.022241","1286410980"
+"Eastern Market Metro / Pennsylvania Ave & 7th St SE","31613","38.884","-76.995397","1286411820"
+"18th & M St NW","31221","38.904742","-77.041606","1286458140"
+"5th & F St NW","31620","38.897222","-77.019347","1286492280"
+"10th St & Constitution Ave NW","31219","38.893028","-77.026013","1286497620"
+"11th & Kenyon St NW","31102","38.929464","-77.027822","1286539080"
+"13th & H St NE","31611","38.9003","-76.9882","1286547000"
+"New York Ave & 15th St NW","31222","38.8991","-77.0337","1286631960"
+"Convention Center / 7th & M St NW","31223","38.90572","-77.022264","1286631960"
+"US Dept of State / Virginia Ave & 21st St NW","31220","38.894919","-77.046587","1286661900"
+"4th St & Massachusetts Ave NW","31604","38.9003","-77.016","1287028800"
+"4th & East Capitol St NE","31618","38.889955","-77.000349","1287028800"
+"3rd & H St NE","31616","38.900412","-77.001949","1287096060"
+"10th & Monroe St NE","31504","38.932514","-76.992889","1287096120"
+"Eckington Pl & Q St NE","31505","38.910972","-77.00495","1287096120"
+"1st & M St NE","31603","38.9057","-77.0056","1287115200"
+"8th & H St NW","31228","38.8997","-77.023086","1287115200"
+"Tenleytown / Wisconsin Ave & Albemarle St NW","31303","38.947607","-77.079382","1287150300"
+"New Hampshire Ave & T St NW","31229","38.91554","-77.03818","1287178020"
+"34th St & Wisconsin Ave NW","31226","38.916442","-77.0682","1287182760"
+"19th & L St NW","31224","38.903407","-77.043648","1287182880"
+"3rd & D St SE","31605","38.8851","-77.0023","1287201600"
+"14th & D St SE","31607","38.884","-76.9861","1287374400"
+"8th & Eye St SE / Barracks Row","31608","38.8792","-76.9953","1287374400"
+"13th St & New York Ave NW","31227","38.900283","-77.029822","1287416880"
+"Potomac & Pennsylvania Ave SE","31606","38.8803","-76.9862","1287460800"
+"C & O Canal & Wisconsin Ave NW","31225","38.90375","-77.06269","1287460800"
+"23rd & Eads St","31013","38.853613","-77.053535","1287562620"
+"19th St & Constitution Ave NW","31235","38.8923","-77.0436","1287607080"
+"7th & Water St SW / SW Waterfront","31609","38.878925","-77.024016","1287720000"
+"37th & O St NW / Georgetown University","31236","38.90774","-77.071652","1288037580"
+"Lincoln Park / 13th & East Capitol St NE","31619","38.890461","-76.988355","1288038900"
+"13th & D St NE","31622","38.894832","-76.987633","1288114080"
+"North Capitol St & F St NW","31624","38.897446","-77.009888","1288122720"
+"Bladensburg Rd & Benning Rd NE","31617","38.900413","-76.982872","1288200360"
+"25th St & Pennsylvania Ave NW","31237","38.903827","-77.053485","1288551000"
+"Anacostia Library","31804","38.865784","-76.9784","1288584000"
+"Pennsylvania & Minnesota Ave SE","31805","38.873057","-76.971015","1288584000"
+"Benning Branch Library","31705","38.894","-76.947974","1288584000"
+"36th & Calvert St NW / Glover Park","31304","38.922581","-77.070334","1289236620"
+"14th & G St NW","31238","38.898069","-77.031823","1289237340"
+"Connecticut Ave & Newark St NW / Cleveland Park","31305","38.934267","-77.057979","1289241840"
+"Ward Circle / American University","31301","38.938736","-77.087171","1289538000"
+"Van Ness Metro / UDC","31300","38.944551","-77.063896","1289624400"
+"4th St & Rhode Island Ave NE","31500","38.919488","-77.000624","1289970000"
+"Idaho Ave & Newark St NW","31302","38.934751","-77.074647","1289970000"
+"14th St Heights / 14th & Crittenden St NW","31402","38.947774","-77.032818","1289970000"
+"Florida Ave & R St NW","31503","38.9126","-77.0135","1290056400"
+"17th & Corcoran St NW","31214","38.9121","-77.0387","1294078980"
+"Harvard St & Adams Mill Rd NW","31112","38.927872","-77.043358","1294164840"
+"Lynn & 19th St North","31014","38.897315","-77.070993","1302957060"
+"Rosslyn Metro / Wilson Blvd & Ft Myer Dr","31015","38.8946","-77.072305","1302957120"
+"Clarendon Blvd & Pierce St","31016","38.893648","-77.076701","1302957960"
+"N Rhodes & 16th St N","31018","38.892164","-77.079375","1302963480"
+"14th & D St NW / Ronald Reagan Building","31231","38.894514","-77.031617","1303306260"
+"17th & K St NW / Farragut Square","31233","38.902061","-77.038322","1304022480"
+"8th & F St NW / National Portrait Gallery","31232","38.896901","-77.022921","1304108940"
+"4th & D St NW / Judiciary Square","31621","38.895344","-77.016106","1304481600"
+"Metro Center / 12th & G St NW","31230","38.898364","-77.027869","1305259200"
+"Good Hope Rd & MLK Ave SE","31802","38.867373","-76.988039","1305288720"
+"17th & K St NW","31213","38.90276","-77.03863","1306236960"
+"Branch & Pennsylvania Ave SE","31701","38.8692","-76.9599","1309008600"
+"Fairfax Village","31706","38.86559","-76.952103","1311771600"
+"20th & Bell St","31000","38.8561","-77.0512","1316059200"
+"Court House Metro / Wilson Blvd & N Uhle St","31017","38.891696","-77.0846","1320933600"
+"Wilson Blvd & N Edgewood St","31019","38.889","-77.0925","1321015980"
+"Columbia Rd & Belmont St NW","31113","38.920669","-77.04368","1321625100"
+"17th & Rhode Island Ave NW","31239","38.906602","-77.038785","1321639800"
+"Thomas Circle","31241","38.9059","-77.0325","1321714320"
+"Clarendon Blvd & N Fillmore St","31021","38.8881","-77.09308","1321981080"
+"Clarendon Metro / Wilson Blvd & N Highland St","31022","38.88786","-77.094875","1321983480"
+"18th St & Pennsylvania Ave NW","31242","38.89968","-77.041539","1322571600"
+"7th & R St NW / Shaw Library","31245","38.912719","-77.022155","1322583120"
+"3rd & G St SE","31625","38.881185","-77.001828","1322661660"
+"Wilson Blvd & Franklin Rd","31020","38.8904","-77.0889","1322715600"
+"4th & E St SW","31244","38.88412","-77.017445","1322756880"
+"1st & Rhode Island Ave NW","31506","38.915417","-77.012289","1323178380"
+"9th & Upshur St NW","31404","38.9418","-77.0251","1323194880"
+"Columbia Rd & Georgia Ave NW","31115","38.928156","-77.02344","1323234000"
+"11th & H St NE","31614","38.899983","-76.991383","1323666000"
+"6th & H St NE","31615","38.900384","-76.99831","1323696720"
+"California St & Florida Ave NW","31116","38.917761","-77.04062","1323752400"
+"Anacostia Ave & Benning Rd NE / River Terrace","31708","38.896544","-76.96012","1324402320"
+"Benning Rd & East Capitol St NE / Benning Rd Metro","31707","38.889935","-76.93723","1324404360"
+"M St & Pennsylvania Ave NW","31246","38.905126","-77.056887","1324485480"
+"3000 Connecticut Ave NW / National Zoo","31307","38.930282","-77.055599","1324496640"
+"15th St & Massachusetts Ave SE","31626","38.88732","-76.983569","1324565040"
+"Congress Heights Metro","31806","38.844711","-76.987823","1324581180"
+"Maryland & Independence Ave SW","31243","38.887299","-77.018939","1327669020"
+"1st & K St SE","31628","38.87861","-77.006004","1328717220"
+"20th & O St NW / Dupont South","31234","38.908905","-77.04478","1328850000"
+"39th & Calvert St NW / Stoddert","31306","38.922649","-77.077271","1328898300"
+"1st & Washington Hospital Center NW","31507","38.928743","-77.012457","1329153540"
+"Central Library / N Quincy St & 10th St N","31025","38.88397","-77.10783","1329493920"
+"Virginia Square Metro / N Monroe St & 9th St N","31024","38.882788","-77.103148","1329508980"
+"Washington Blvd & 10th St N","31026","38.884734","-77.093485","1329944340"
+"D St & Maryland Ave NE","31612","38.894758","-76.997114","1330094460"
+"Ohio Dr & West Basin Dr SW / MLK & FDR Memorials","31240","38.88412","-77.04657","1331904960"
+"Jefferson Dr & 14th St SW","31247","38.888553","-77.032429","1331911860"
+"Smithsonian / Jefferson Dr & 12th St SW","31248","38.888767","-77.02858","1333369620"
+"Key Blvd & N Quinn St","31027","38.896015","-77.078107","1335195480"
+"N Veitch & Key Blvd","31028","38.893241","-77.086045","1335202980"
+"N Veitch  & 20th St N","31029","38.896923","-77.086502","1335213360"
+"15th & N Scott St","31031","38.89054","-77.08095","1335362100"
+"N Adams St & Lee Hwy","31030","38.89593","-77.089006","1335369060"
+"Wilson Blvd & N Oakland St","31033","38.8815","-77.10396","1335387720"
+"N Randolph St & Fairfax Dr","31034","38.882629","-77.109366","1335542580"
+"Fairfax Dr & Wilson Blvd","31023","38.885801","-77.097745","1335545880"
+"N Quincy St & Glebe Rd","31035","38.876393","-77.107735","1335552600"
+"Washington Blvd & 7th St N","31032","38.880834","-77.091129","1335794400"
+"George Mason Dr & Wilson Blvd","31036","38.87887","-77.1207","1335805380"
+"Ballston Metro / N Stuart & 9th St N","31037","38.881044","-77.111768","1335817440"
+"Jefferson Memorial","31249","38.879819","-77.037413","1335969180"
+"Good Hope Rd & 14th St SE","31803","38.866611","-76.985238","1335981060"
+"Glebe Rd & 11th St N","31038","38.883921","-77.116817","1337269200"
+"N Quincy St & Wilson Blvd","31039","38.880151","-77.107673","1338301620"
+"20th & L St NW","31250","38.903584","-77.044789","1340632500"
+"12th & L St NW","31251","38.903819","-77.0284","1340639640"
+"19th & K St NW","31253","38.902204","-77.04337","1340801880"
+"21st St & Pennsylvania Ave NW","31252","38.901539","-77.046564","1340811180"
+"15th & K St NW","31254","38.902","-77.03353","1341232920"
+"24th & N St NW","31255","38.9066","-77.05152","1341575340"
+"Gallaudet / 8th St & Florida Ave NE","31508","38.90509","-76.9941","1342033620"
+"10th & E St NW","31256","38.895914","-77.026064","1342109700"
+"22nd & I St NW / Foggy Bottom","31257","38.90088","-77.048911","1342442220"
+"Utah St & 11th St N","31049","38.883669","-77.113905","1342539420"
+"Prince St & Union St","31041","38.803124","-77.040363","1346070420"
+"Market Square / King St & Royal St","31042","38.804718","-77.043363","1346077680"
+"Saint Asaph St & Pendleton  St","31043","38.810743","-77.044664","1346084880"
+"King St & Patrick St","31044","38.805317","-77.049883","1346442900"
+"Commerce St & Fayette St","31045","38.805648","-77.05293","1346442960"
+"Henry St & Pendleton St","31046","38.811456","-77.050276","1346442960"
+"Braddock Rd Metro","31047","38.814577","-77.052808","1346442960"
+"King St Metro","31048","38.805767","-77.06072","1346443020"
+"Barton St & 10th St N","31050","38.884961","-77.08777","1346771820"
+"Arlington Blvd & N Queen St","31051","38.889365","-77.077294","1346776740"
+"Lincoln Memorial","31258","38.888251","-77.049426","1349268360"
+"Potomac Ave & 35th St S","31052","38.844015","-77.050537","1351092960"
+"21st St & Constitution Ave NW","31261","38.892459","-77.046567","1359639120"
+"20th St & Virginia Ave NW","31259","38.894722","-77.045128","1359646980"
+"23rd & E St NW","31260","38.896104","-77.049882","1359652440"
+"11th & F St NW","31262","38.897857","-77.026975","1359981840"
+"Fessenden St & Wisconsin Ave NW","31309","38.954812","-77.082426","1360588560"
+"39th & Veazey St NW","31308","38.943837","-77.077078","1360598160"
+"M St & Delaware Ave NE","31627","38.905707","-77.003041","1360929900"
+"11th & K St NW","31263","38.90268","-77.02674","1360936140"
+"Walter Reed Community Center / Walter Reed Dr & 16th St S","31054","38.857803","-77.086733","1364466180"
+"28th St S & S Meade St","31055","38.846222","-77.069275","1364476320"
+"Columbia Pike & S Courthouse Rd","31053","38.863833","-77.080319","1364482620"
+"6th St & Indiana Ave NW","31264","38.894573","-77.01994","1364990040"
+"11th & M St NW","31266","38.905607","-77.027137","1364995680"
+"18th St & Wyoming Ave NW","31114","38.918809","-77.041571","1365003300"
+"5th & Kennedy St NW","31403","38.956595","-77.019815","1365777420"
+"Georgia Ave & Emerson St NW","31405","38.949662","-77.027333","1365783540"
+"14th & Upshur St NW","31406","38.942016","-77.032652","1365794820"
+"14th St & Colorado Ave NW","31407","38.956432","-77.032947","1365798900"
+"S Troy St & 26th St S","31056","38.847977","-77.075104","1366725840"
+"S Four Mile Run Dr & S Shirlington Rd","31057","38.8444","-77.085931","1366729200"
+"S Oakland St & Columbia Pike","31058","38.860789","-77.09586","1366735380"
+"S Abingdon St & 36th St S","31059","38.835213","-77.094295","1366739700"
+"S Arlington Mill Dr & Campbell Ave","31060","38.84232","-77.089555","1366802400"
+"Fairfax Dr & Kenmore St","31040","38.884616","-77.10108","1366814880"
+"S Kenmore & 24th St S","31061","38.848454","-77.084918","1366825140"
+"Connecticut & Nebraska Ave NW","31310","38.955016","-77.069956","1366894140"
+"Wisconsin Ave & O St NW","31312","38.90849","-77.063586","1366910820"
+"5th St & Massachusetts Ave NW","31265","38.90093","-77.018677","1367842440"
+"17th St & Massachusetts Ave NW","31267","38.908142","-77.038359","1367851920"
+"15th & Euclid St  NW","31117","38.92333","-77.0352","1367856780"
+"New Jersey Ave & R St NW","31509","38.912659","-77.017669","1368532680"
+"15th & East Capitol St NE","31630","38.889908","-76.983326","1368541260"
+"8th & East Capitol St NE","31629","38.889988","-76.995193","1368545580"
+"8th & F St NE","31631","38.897274","-76.994749","1368552540"
+"18th St & Rhode Island Ave NE","31510","38.927095","-76.978924","1369915500"
+"12th & Irving St NE","31511","38.928644","-76.990955","1369923120"
+"15th & F St NE","31632","38.897195","-76.983575","1369928820"
+"Alabama & MLK Ave SE","31800","38.843222","-76.999388","1370345160"
+"Pleasant St & MLK Ave SE","31807","38.863897","-76.990037","1370351820"
+"34th St & Minnesota Ave SE","31709","38.884085","-76.957461","1370358840"
+"Neal St & Trinidad Ave NE","31512","38.903732","-76.987211","1371221640"
+"13th & U St NW","31268","38.916794","-77.029779","1371231240"
+"N Pershing Dr & Wayne St","31065","38.880705","-77.08596","1372680300"
+"Columbia Pike & S Orme St","31066","38.867262","-77.072315","1372684620"
+"S George Mason Dr & Four Mile Run","31063","38.852248","-77.105022","1372690500"
+"S George Mason Dr & 13th St S","31062","38.854691","-77.100555","1372694040"
+"S Stafford & 34th St S","31064","38.834108","-77.087323","1372701360"
+"8th & D St NW","31270","38.894851","-77.02324","1374581640"
+"3rd & Elm St NW","31118","38.917622","-77.01597","1374589740"
+"3rd St & Pennsylvania Ave SE","31269","38.887378","-77.001955","1374598740"
+"Constitution Ave & 2nd St NW/DOL","31271","38.892275","-77.013917","1375190280"
+"Rhode Island Ave & V St NE","31513","38.918155","-77.004746","1375196700"
+"Washington & Independence Ave SW/HHS","31272","38.88731","-77.01397","1375445040"
+"Independence Ave & L'Enfant Plaza SW/DOE","31633","38.887397","-77.026154","1375789680"
+"Hamlin & 7th St NE","31514","38.927497","-76.997194","1376653440"
+"Columbia Pike & S Walter Reed Dr","31067","38.862478","-77.086599","1377605340"
+"Columbia Pike & S Dinwiddie St / Arlington Mill Community Center","31068","38.856319","-77.11153","1377776460"
+"Pershing & N George Mason Dr","31069","38.871822","-77.107906","1377792000"
+"Norfolk Ave & Fairmont St","32000","38.988562","-77.096539","1380292560"
+"E Montgomery Ave & Maryland Ave","32007","39.084125","-77.151291","1380292560"
+"Fenton St & New York Ave","32001","38.985404","-77.023082","1380292620"
+"Bethesda Ave & Arlington Blvd","32002","38.981103","-77.097426","1380292620"
+"Fallsgrove Blvd & Fallsgrove Dr","32004","39.096312","-77.192672","1380292620"
+"13th St & Eastern Ave","32006","38.987","-77.029417","1380292680"
+"Traville Gateway Dr & Gudelsky Dr","32005","39.093783","-77.202501","1380292680"
+"Cordell & Norfolk Ave","32008","38.98954","-77.098029","1380292740"
+"Frederick Ave & Horners Ln","32009","39.094772","-77.145213","1380292740"
+"Philadelphia & Maple Ave","32010","38.98128","-77.011336","1380292740"
+"Maple & Ritchie Ave","32011","38.983627","-77.006311","1380292800"
+"Silver Spring Metro/Colesville Rd & Wayne Ave","32012","38.99521","-77.02918","1380292800"
+"Montgomery & East Ln","32013","38.983525","-77.095367","1380292800"
+"Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir","32014","38.961763","-77.085998","1380292860"
+"14th & Belmont St NW","31119","38.921074","-77.031887","1380719160"
+"3rd & Tingey St SE","31634","38.87501","-77.0024","1380722700"
+"10th & Florida Ave NW","31120","38.920387","-77.025672","1381320720"
+"Potomac Ave & 8th St SE","31635","38.876737","-76.994468","1381333800"
+"Crabbs Branch Way & Redland Rd","32015","39.120045","-77.156985","1382100480"
+"Needwood Rd & Eagles Head Ct","32018","39.123513","-77.15741","1382107020"
+"Crabbs Branch Way & Calhoun Pl","32020","39.107709","-77.152072","1382111460"
+"Fallsgove Dr & W Montgomery Ave","32016","39.099376","-77.188014","1382120580"
+"Montgomery College/W Campus Dr & Mannakee St","32023","39.095661","-77.159048","1382199120"
+"Montgomery Ave & Waverly St","32003","38.983838","-77.09221","1382208480"
+"47th & Elm St","32021","38.982456","-77.091991","1382208540"
+"Battery Ln & Trolley Trail","32027","38.992375","-77.100104","1382712300"
+"Norfolk & Rugby Ave","32028","38.990639","-77.100239","1382715180"
+"Offutt Ln & Chevy Chase Dr","32029","38.977093","-77.094589","1382722080"
+"Piccard & W Gude Dr","32033","39.102212","-77.177091","1382795700"
+"Broschart & Blackwell Rd","32030","39.102099","-77.200322","1382798640"
+"Taft St & E Gude Dr","32031","39.094103","-77.132954","1382804520"
+"Fleet St & Ritchie Pkwy","32032","39.076331","-77.141378","1382809500"
+"Fenton St & Gist Ave","32024","38.989724","-77.023854","1383054960"
+"Garland Ave & Walden Rd","32022","39.000578","-77.00149","1383059580"
+"Carroll & Westmoreland Ave","32025","38.975","-77.01121","1383065460"
+"Carroll & Ethan Allen Ave","32026","38.977933","-77.006472","1383070440"
+"Fenton St & Ellsworth Dr","32036","38.997033","-77.025608","1383135960"
+"Ripley & Bonifant St","32034","38.992679","-77.029457","1383141360"
+"Georgia Ave & Spring St","32035","38.999388","-77.031555","1383146520"
+"East West Hwy & Blair Mill Rd","32019","38.990249","-77.02935","1383148920"
+"Monroe St & Monroe Pl","32017","39.083705","-77.149443","1383309240"
+"King Farm Blvd & Piccard Dr","32038","39.110314","-77.182669","1383318120"
+"King Farm Blvd & Pleasant Dr","32037","39.114688","-77.171487","1383323580"
+"Calvert St & Woodley Pl NW","31121","38.923583","-77.050046","1383657120"
+"New Jersey Ave & N St NW/Dunbar HS","31636","38.90706","-77.015231","1383662880"
+"Nannie Helen Burroughs Ave & 49th St NE","31710","38.898536","-76.931862","1383923280"
+"Deanwood Rec Center","31711","38.908473","-76.933099","1383923280"
+"Hains Point/Buckeye & Ohio Dr SW","31273","38.878433","-77.03023","1383929160"
+"Friendship Blvd & Willard Ave","32040","38.96115","-77.088659","1384355760"
+"Old Georgetown Rd & Southwick St","32039","38.999634","-77.109647","1384367940"
+"Long Bridge Park/Long Bridge Dr & 6th St S","31071","38.86646","-77.04826","1384520760"
+"Arlington Blvd & Fillmore St","31070","38.873755","-77.089233","1384527780"
+"Nannie Helen Burroughs & Minnesota Ave NE","31704","38.901385","-76.941877","1386766320"
+"Thomas Jefferson Cmty Ctr / 2nd St S & Ivy","31074","38.869675","-77.093586","1386774900"
+"North Capitol St & G Pl NE","31637","38.899703","-77.008911","1386954360"
+"Connecticut Ave & Tilden St NW","31313","38.941154","-77.062036","1386954480"
