@@ -24,7 +24,7 @@ if ($startStation == $endStation) {
     include('functions/numeric.php');
     include('functions/googleapi.php');
 
-    if (empty($pairData)) {
+    if (empty($allTrips)) {
 	    include('html/explainzero.php');
         include('html/details.php');
 

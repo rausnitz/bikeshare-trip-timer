@@ -58,7 +58,7 @@ foreach ($googleModes as $mode) {
 
 }
 
-$staticMap = "http://maps.googleapis.com/maps/api/staticmap?size=600x300&maptype=terrain&sensor=false"
+$staticMap = "http://maps.googleapis.com/maps/api/staticmap?size=640x300&maptype=terrain&sensor=false"
 . "&markers=icon:" . $fixedURL . $greenIcon . "|"
 . $startStationData[2] . "," . $startStationData[3]
 . "&markers=icon:" . $fixedURL . $redIcon . "|"

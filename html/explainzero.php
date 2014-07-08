@@ -10,6 +10,7 @@ $atLeastSixMonths = $atLeastAMonth * 6;
 
 /* Finds how long the newer of the two stations existed before the data end date.
 Don't use $ageInDays if both stations were installed in the previous year. */
+
 $ageInDays = date('z', $dataEndDate) - date('z', max($startInstalled, $endInstalled));
 
 $spelledNumbers = array(
@@ -26,13 +27,14 @@ $spelledNumbers = array(
 );
 
 /* Says how long the newer station existed before the data end date.
-This only works if the station installations and data end date were in the same year. */
+This only works if the station installations and data end date were in the same year.
+An if statement later in this file tests for that. */
 if ($ageInDays < 2) {
-$fewDays = "less than 48 hours before ";
+  $fewDays = "less than 48 hours before ";
 } elseif ($ageInDays < 10) {
-$fewDays = "only " . $spelledNumbers[$ageInDays] . " days before ";
+  $fewDays = "only " . $spelledNumbers[$ageInDays] . " days before ";
 } else {
-$fewDays = "only " . $ageInDays . " days before ";
+  $fewDays = "only " . $ageInDays . " days before ";
 }
 
 /* These are phrases used repeatedly in the explanations for there being no trips. */
@@ -40,7 +42,7 @@ $explanationA = "No data is available, because ";
 $explanationB = " installed after " . date('F j, Y', $dataEndDate);
 $explanationC = "&mdash;the most recent date for which trip data is available";
 $explanationD = "Capital Bikeshare members took <span class='key-stats'>0 trips</span>"
-. " between the stations you chose in the first nine months of 2013. ";
+. " between the stations you chose in 2013. ";
 $explanationE = "there's no clear reason why there were no trips. "
 . "The stations may just be very far away from each other.";
 $explanationF = "installed " . $fewDays . date('F j, Y', $dataEndDate);
@@ -85,4 +87,4 @@ if ($startInstalled > $dataEndDate && $endInstalled > $dataEndDate) {
 ?>
 
 </p>
-<p>The next batch of trip data (for October 1 to December 31) is due to be released in early 2014.</p>
+<p>The next batch of trip data (for January 1 to March 31) is due to be released later this spring.</p>

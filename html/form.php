@@ -9,5 +9,5 @@
 <select name="stationend">
 <?php echo $dropdownOptions; ?>
 </select><br />
-<input type="submit" value="&rarr; Find average trip time" style="margin-top:25px">
+<input type="submit" value="&rarr; Find trip stats" style="margin-top:25px">
 </form>
