@@ -1,0 +1,97 @@
+body {
+	margin: 0;
+	padding: 0;
+  width: 100%;
+}
+
+body, #map {
+	font-family: 'Inconsolata', sans-serif;
+}
+
+#map {
+	width: 100%;
+	margin: 0;
+}
+
+#below_map div {
+	display: block;
+	width: 95%;
+	text-align: center;
+	padding: 3px 0;
+	margin: 0 auto;
+	font-size: 14px;
+}
+
+#below_map #title {
+	font-size: 16px;
+}
+
+@media (max-height: 500px) {
+  #below_map #title {
+		font-size: 14px;
+	}
+	#below_map div {
+    font-size: 12px;
+  }
+}
+
+.selected_station {
+  display: inline-block;
+	font-style: italic;
+}
+
+#below_map a {
+	color: black;
+	text-decoration: underline;
+}
+
+#title a {
+	text-decoration: none;
+}
+
+#go {
+	font-weight: bold;
+}
+
+#go_click, #start_over {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#results_info {
+	font-weight: bold;
+}
+
+.results_number {
+	font-style: italic;
+}
+
+#chart {
+	display: none;
+	width: 98%;
+	margin: 0 auto;
+}
+
+#chart path, #chart line {
+	stroke: #000;
+	fill: none;
+	shape-rendering: crispEdges;
+	stroke-width: 1px;
+}
+
+.tick text {
+	font-size: 12px;
+}
+
+.bar_label {
+	font-size: 11px;
+}
+
+text.axis-label {
+	font-size: 13px;
+	text-transform: uppercase;
+}
+
+.pointer {
+	color: black;
+}
