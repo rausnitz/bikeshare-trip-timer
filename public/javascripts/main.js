@@ -1,5 +1,5 @@
 var markers = new L.featureGroup(), start_marker = new L.featureGroup(), end_marker = new L.featureGroup(), chosen_markers = new L.featureGroup(), default_marker_options = {fillOpacity: 0.5, color: '#888'}, start_marker_options = {color: 'green', fillOpacity: 0.8}, end_marker_options = {color: 'red', fillOpacity: 0.8};
-var window_width = $(window).width(), state = 'choosing', transition = false, event_ready = true, initial_display = true, target_start = true, selected_start, selected_end, static_map_height = 125, url = [location.protocol, '//', location.host, location.pathname].join(''), chart_values = [];
+var window_width = $(window).width(), state = 'choosing', transition = false, event_ready = true, initial_display = true, target_start = true, selected_start_id, selected_end_id, static_map_height = 125, url = [location.protocol, '//', location.host, location.pathname].join(''), chart_values = [];
 
 var map = L.map('map', {
   minZoom: 9
@@ -88,14 +88,14 @@ function on_marker_click() {
     markers.setStyle(default_marker_options);
     start_marker.setStyle(start_marker_options).bringToFront();
     end_marker.setStyle(end_marker_options).bringToFront();
-    if (selected_start == selected_end) end_marker.setStyle({color: 'yellow'});
+    if (selected_start_id == selected_end_id) end_marker.setStyle({color: 'yellow'});
   }
   if (state == 'choosing') {
     if (target_start) {
       $('#selected_start .selected_station').hide().html(selected_name).fadeIn(500);
       $('#selected_end .pointer').show();
       $('#selected_start .pointer').hide();
-      selected_start = stations[selected_index].id;
+      selected_start_id = stations[selected_index].id;
       start_marker = new L.featureGroup();
       this.addTo(start_marker);
       setColors();
@@ -103,23 +103,23 @@ function on_marker_click() {
       $('#selected_end .selected_station').hide().html(selected_name).fadeIn(500);
       $('#selected_end .pointer').hide();
       $('#selected_start .pointer').show();
-      selected_end = stations[selected_index].id;
+      selected_end_id = stations[selected_index].id;
       end_marker = new L.featureGroup();
       this.addTo(end_marker);
       setColors();
     }
     target_start = !target_start;
-    if (selected_start && selected_end && selected_start != selected_end) {
+    if (selected_start_id && selected_end_id && selected_start_id != selected_end_id) {
       $('#go').html('<span id="go_click">Click here for the results</span>. Or keep choosing stations.');
       $( '#go_click' ).click(function() {
         get_durations();
       });
-    } else if (selected_start == selected_end) {
+    } else if (selected_start_id == selected_end_id) {
       $('#go').html('Choose two different stations.');
     } else {
       $('#go').html('Choose another station.');
     }
-    if (selected_start && selected_end) {
+    if (selected_start_id && selected_end_id) {
       $('.pointer').css('color', '#888')
     }
     adjust_view();
@@ -130,7 +130,7 @@ function get_durations() {
   $('.pointer').hide();
   $('#go').html('<img src="images/loading-bar.gif">');
   adjust_view();
-  $.getJSON( url + 'results/' + selected_start + '/' + selected_end + '/', function(data) {
+  $.getJSON( url + 'results/' + selected_start_id + '/' + selected_end_id + '/', function(data) {
     if (data.any_results) {
       show_results(data);
       state = 'viewing';
@@ -154,7 +154,7 @@ function get_durations() {
           $('.selected_station').html('');
           $('.pointer').css('color', 'black');
           $('#selected_start .pointer').show();
-          selected_start = null, selected_end = null, target_start = true, transition = true;
+          selected_start_id = null, selected_end_id = null, target_start = true, transition = true;
           initialize_markers();
           state = 'choosing';
           adjust_view();
